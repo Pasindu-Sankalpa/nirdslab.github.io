@@ -33,6 +33,13 @@
   url:
   category: "PhD Students"
 
+- name: "Pasindu Thenahandi"
+  img: "/assets/img/team/Psnd_Snklp.jpg"
+  title: "CS PhD Student"
+  interests: ""
+  url: https://pasindu-sankalpa.github.io/
+  category: "PhD Students"
+
 - name: "Kayla Pineda"
   img: "/assets/img/team/Kayla.jpg"
   title: "CS UG Student"
